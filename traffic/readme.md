@@ -1,4 +1,4 @@
-Run with python3 trafic.py gtsrb
+Run with python3 traffic.py gtsrb
 
 Dropout and hidden layers are irrelevant in this tutorial more hidden layers like 128 make accuracy close to no hidden layers 0.5 dropout makes 0.05 accuracy and 0.1 make 0.82 while 0.01 make 0.95
 
