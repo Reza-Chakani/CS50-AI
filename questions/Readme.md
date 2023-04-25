@@ -1,5 +1,5 @@
-run with python3 questions.py corpus 
+Run with python3 questions.py corpus 
 
 
-watch demo in this link:
+Watch demo in this link:
 https://youtu.be/-wdj21udZPc 
